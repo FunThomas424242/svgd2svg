@@ -12,7 +12,7 @@
 
   <groupId>acceleo</groupId>
   <artifactId>gh.funthomas424242.svgd.generator.feature</artifactId>
-  <version>1.0.0.qualifier</version> <!-- This version should match the version of your project in the feature.xml-->
+  <version>1.0.0</version> <!-- This version should match the version of your project in the feature.xml-->
   <packaging>eclipse-feature</packaging>
 
 </project>

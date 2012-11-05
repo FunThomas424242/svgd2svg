@@ -24,7 +24,7 @@
 
   <groupId>acceleo</groupId>
   <artifactId>gh.funthomas424242.svgd.generator</artifactId>
-  <version>1.0.0.qualifier</version> <!-- This version should match the version of your project in the MANIFEST.MF-->
+  <version>1.0.0</version> <!-- This version should match the version of your project in the MANIFEST.MF-->
   <packaging>eclipse-plugin</packaging>
 
   <dependencies>
